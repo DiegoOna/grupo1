@@ -24,3 +24,8 @@ print(pot(5,3))
 def coseno (n1):
     return(math.cos(n1))
 print(coseno(5))
+
+
+def seno (n1):
+    return(math.sin(n1))
+print(seno(7))
