@@ -9,3 +9,6 @@ def resta (n1,n2):
     return(n1-n2)
 print(resta(10,1))
 
+def mult (n1,n2):
+    return(n1*n2)
+print(mult(4,3))
