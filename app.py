@@ -29,3 +29,7 @@ print(coseno(5))
 def seno (n1):
     return(math.sin(n1))
 print(seno(7))
+
+def tan (n1):
+    return(math.tan(n1))
+print(tan(5))
