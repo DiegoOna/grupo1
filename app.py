@@ -20,3 +20,7 @@ print(divi(10,5))
 def pot (n1,n2):
     return(n1**n2)
 print(pot(5,3))
+
+def coseno (n1):
+    return(math.cos(n1))
+print(coseno(5))
