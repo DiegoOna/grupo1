@@ -38,3 +38,7 @@ print(tan(5))
 def expo(n1):
      return(math.exp(n1))
 print(expo(3))
+
+def loga(n1):
+     return(math.log(n1))
+print(loga(6))
