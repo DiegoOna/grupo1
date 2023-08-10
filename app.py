@@ -51,4 +51,8 @@ print(loga(6))
 
 def raiz(n1):
      return(math.sqrt(n1))
-print(raiz(9))
+print(raiz(9))  
+
+def fact(n1):
+     return(math.factorial(n1))
+print(fact(9))
