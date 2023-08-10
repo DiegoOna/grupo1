@@ -33,3 +33,8 @@ print(seno(7))
 def tan (n1):
     return(math.tan(n1))
 print(tan(5))
+
+
+def expo(n1):
+     return(math.exp(n1))
+print(expo(3))
