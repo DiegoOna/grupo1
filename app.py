@@ -42,3 +42,8 @@ print(expo(3))
 def loga(n1):
      return(math.log(n1))
 print(loga(6))
+
+#Participantes
+#Talia Pucha Cofrep (Denis)
+#Diego Oña
+#Elisa Hernández 
