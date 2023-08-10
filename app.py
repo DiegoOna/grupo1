@@ -47,3 +47,8 @@ print(loga(6))
 #Talia Pucha Cofrep (Denis)
 #Diego Oña
 #Elisa Hernández 
+
+
+def raiz(n1):
+     return(math.sqrt(n1))
+print(raiz(9))
