@@ -55,4 +55,4 @@ print(raiz(9))
 
 def fact(n1):
      return(math.factorial(n1))
-print(fact(9))
+print(fact(3))
